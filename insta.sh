@@ -62,7 +62,8 @@ They must also release the derivative work under the same terms,
 Making it subject to copyright and the same licensing terms.
 EOF
 
-function start() {
+function start(
+) {
 banner
 checkroot
 dependencies
